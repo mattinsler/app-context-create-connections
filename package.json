@@ -1,0 +1,16 @@
+{
+  "name": "@mattinsler/app-context-create-connections",
+  "version": "0.0.1",
+  "description": "Helper for initializers that need to create one or multiple connections",
+  "homepage": "https://github.com/mattinsler/app-context-create-connections",
+  "bugs": {
+    "url": "https://github.com/mattinsler/app-context-create-connections/issues"
+  },
+  "license": "MIT",
+  "author": "Matt Insler <matt.insler@gmail.com>",
+  "main": "lib/app-context-create-connections",
+  "repository": "mattinsler/app-context-create-connections",
+  "dependencies": {
+    "bluebird": "2.9.34"
+  }
+}
